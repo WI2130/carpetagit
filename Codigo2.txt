@@ -1,2 +1,0 @@
-Acabé de modificar este archivo
-Esta linea es después de "mi primer commit :D
